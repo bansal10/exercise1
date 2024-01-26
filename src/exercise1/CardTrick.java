@@ -68,5 +68,3 @@ public class CardTrick {
         System.out.println();
     }
 }
-
-// Remember to define your Card class as well.
